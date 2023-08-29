@@ -33,10 +33,10 @@ import './style.css'
   ]
   const listaRedes = [
     {
-      url:'https://www.twitch.tv/maykbrito', image:'../../public/instagram.svg', alt:'Instagram'
+      url:'#', image:'../../public/instagram.svg', alt:'Instagram'
     },
     {
-      url:"https://www.twitch.tv/alanzoka", image:"../../public/youtube.svg", alt:"Youtube", 
+      url:"#", image:"../../public/youtube.svg", alt:"Youtube", 
     }
    
   ]
